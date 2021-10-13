@@ -1,18 +1,36 @@
-## Getting Started
+# Cadastro de Produtos
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<p align="center">
+  <img src="https://media.giphy.com/media/Dm7zkYx0V80WyJbou1/giphy.gif">
+</p>
 
-## Folder Structure
+Atividade aplicada pelo professor _Edson Mota_.
 
-The workspace contains two folders by default, where:
+Totalmente feito em Java utilizando pacotes da própria linguagem.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Dependências para rodar a aplicação
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- `Java 11.0 +`
+- `Compilador Java.`
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Sobre o código
 
-## Dependency Management
+A aplicação **não** está 100% funcional, apenas algumas funcionalidades estão ativas já que não era parte avaliativa o seu funcionamento.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Para implementar a funcionalidade 100% seria interessante ter uma conexão com um DB para se comunicar e conseguir acesso aos usuários já cadastrados e assim poder manipular de todas as formas necessárias.
+
+## Oque aprendi ?
+
+- Utilização de **Getter's** e **Setter's**;
+- Cadastro dinâmico usando `ArrayList<>()`;
+- Controller para as listagens dinâmicas;
+- Refatoração de classes.
+
+## Equipe composta por
+
+* Lucas Pereira Souza.
+<a href="https://www.linkedin.com/in/lucas-souza-dev/">
+        <img height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+📩 lucasp.sdev@gmail.com
