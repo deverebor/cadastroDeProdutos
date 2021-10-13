@@ -9,38 +9,42 @@ public class ProdutoController {
     produtos.add(cp);
   }
 
-  public void listaProdutos() {
+  public void imprimeProdutos() {
     produtos.forEach((p) -> {
-      System.out.println("Nome: " + p.getId());
-      System.out.println("Modelo: " + p.getNomeProduto());
-      System.out.println("Tamanho: " + p.getValor());
+      System.out.println("Id: " + p.getId());
+      System.out.println("Nome: " + p.getNomeProduto());
+      System.out.println("Tipo: " + p.getTipoProduto());
+      System.out.println("Valor: " + p.getValor());
       System.out.println("-----------------------------");
     });
   }
 
-  public void listaProdutos(Integer id) {
+  public void imprimeProdutos(Integer id) {
     produtos.forEach((p) -> {
-      System.out.println("Nome: " + p.getId());
-      System.out.println("Modelo: " + p.getNomeProduto());
-      System.out.println("Tamanho: " + p.getValor());
+      System.out.println("Id: " + p.getId());
+      System.out.println("Nome: " + p.getNomeProduto());
+      System.out.println("Tipo: " + p.getTipoProduto());
+      System.out.println("Valor: " + p.getValor());
       System.out.println("-----------------------------");
     });
   }
 
-  public void listaProdutos(String nome) {
+  public void imprimeProdutos(String nome) {
     produtos.forEach((p) -> {
-      System.out.println("Nome: " + p.getId());
-      System.out.println("Modelo: " + p.getNomeProduto());
-      System.out.println("Tamanho: " + p.getValor());
+      System.out.println("Id: " + p.getId());
+      System.out.println("Nome: " + p.getNomeProduto());
+      System.out.println("Tipo: " + p.getTipoProduto());
+      System.out.println("Valor: " + p.getValor());
       System.out.println("-----------------------------");
     });
   }
 
-  public void listaProdutos(Double valor) {
+  public void imprimeProdutos(Double valor) {
     produtos.forEach((p) -> {
-      System.out.println("Nome: " + p.getId());
-      System.out.println("Modelo: " + p.getNomeProduto());
-      System.out.println("Tamanho: " + p.getValor());
+      System.out.println("Id: " + p.getId());
+      System.out.println("Nome: " + p.getNomeProduto());
+      System.out.println("Tipo: " + p.getTipoProduto());
+      System.out.println("Valor: " + p.getValor());
       System.out.println("-----------------------------");
     });
   }
