@@ -15,9 +15,9 @@ Totalmente feito em Java utilizando pacotes da própria linguagem.
 
 ## Sobre o código
 
-A aplicação **não** está 100% funcional, apenas algumas funcionalidades estão ativas já que não era parte avaliativa o seu funcionamento.
+A aplicação está funcional, algumas funcionalidades teriam uma usabilidade melhor se existisse uma coneção com um DB.
 
-Para implementar a funcionalidade 100% seria interessante ter uma conexão com um DB para se comunicar e conseguir acesso aos usuários já cadastrados e assim poder manipular de todas as formas necessárias.
+Seria interessante ter uma conexão com um DB para se comunicar e conseguir acesso aos produtos já cadastrados e assim poder manipular de todas as formas necessárias.
 
 ## Oque aprendi ?
 
