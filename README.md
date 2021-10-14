@@ -15,9 +15,9 @@ Totalmente feito em Java utilizando pacotes da própria linguagem.
 
 ## Sobre o código
 
-A aplicação está funcional, algumas funcionalidades teriam uma usabilidade melhor se existisse uma coneção com um DB.
+A aplicação está funcional, algumas funcionalidades teriam uma usabilidade melhor se existisse uma conexão com um DB.
 
-Seria interessante ter uma conexão com um DB para se comunicar e conseguir acesso aos produtos já cadastrados e assim poder manipular de todas as formas necessárias.
+Seria interessante para se comunicar e conseguir acesso aos produtos já cadastrados, assim podendo manipular de todas as formas necessárias.
 
 ## Oque aprendi ?
 
